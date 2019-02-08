@@ -1,0 +1,2 @@
+# RichBot
+Hosting on Horeku
